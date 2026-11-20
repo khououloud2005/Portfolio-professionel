@@ -1,0 +1,93 @@
+{
+  "nom": "Khouloud Triki",
+  "titre": "Étudiante en Business Intelligence · Développement mobile & QA",
+  "resume": "Étudiante en Business Intelligence à l’IHEC Carthage, intéressée par le développement logiciel, les bases de données, l’analyse de données et l’intelligence artificielle. J’ai développé des applications mobiles avec Flutter et Dart, et je travaille avec Java, SQL et les technologies web. Motivée à mettre mes compétences techniques en pratique.",
+  "photo": "louda.png",
+  "cv": "cv.pdf",
+  "localisation": "Tunis, Tunisie",
+  "contact": {
+    "email": "khouloudt079@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/khouloud-triki/",
+    "github": "https://github.com/khououloud2005"
+  },
+  "competences": {
+    "Programmation": ["Java", "Dart", "SQL", "PL/SQL", "HTML", "CSS", "XML", "Angular"],
+    "Frameworks": ["Flutter", "Spring Boot"],
+    "Données & BI": ["SQL Developer", "Power BI", "Excel", "Stata"],
+    "Outils": ["Git", "GitHub", "Visual Studio", "VS Code", "IntelliJ", "Overleaf", "Figma", "Linux", "Canva"]
+  },
+  "experiences": [
+    {
+      "poste": "Stagiaire en assurance qualité logicielle (QA)",
+      "org": "Linedata",
+      "periode": "Juin 2026",
+      "points": [
+        "Conception de plans de test et de documentation de tests à l’aide d’outils d’IA",
+        "Exploration d’approches assistées par l’IA pour la génération de cas de test",
+        "Contribution au développement d’un agent de test intelligent"
+      ]
+    },
+    {
+      "poste": "Stagiaire en développement mobile",
+      "org": "AFRICOM SERVICES",
+      "periode": "Août 2025",
+      "points": [
+        "Développement d’une application mobile avec Flutter et Dart",
+        "Conception d’interfaces utilisateur et de fonctionnalités interactives",
+        "Renforcement des compétences en programmation et en débogage"
+      ]
+    }
+  ],
+  "projets": [
+    {
+      "nom": "AquaSMART",
+      "resume": "Surveillance connectée de citerne d’eau.",
+      "description": "Solution connectée qui permet de surveiller le niveau et la qualité de l’eau d’une citerne via une application mobile.",
+      "points_cles": ["Suivi du niveau et de la qualité de l’eau", "Application mobile", "Prix de la Meilleure Solution Technique — Journées de l’Entrepreneuriat"],
+      "technos": ["Application mobile", "Solution connectée"],
+      "lien": ""
+    },
+    {
+      "nom": "Application mobile – compte étudiant",
+      "resume": "Interface mobile de gestion de compte étudiant (AFRICOM).",
+      "description": "Conception et réalisation de l’interface utilisateur mobile d’une application de gestion de compte étudiant.",
+      "points_cles": ["Disposition des écrans", "Design visuel", "Navigation utilisateur"],
+      "technos": ["Flutter", "Dart"],
+      "lien": ""
+    },
+    {
+      "nom": "Plateforme de gestion des projets",
+      "resume": "Application Java de gestion des projets universitaires.",
+      "description": "Application Java de gestion des projets universitaires, structurée selon plusieurs patrons de conception.",
+      "points_cles": ["Architecture MVC", "Patrons DAO et Singleton", "Base de données SQL Server"],
+      "technos": ["Java", "MVC", "DAO", "SQL Server"],
+      "lien": ""
+    },
+    {
+      "nom": "Carte interactive des gouvernorats",
+      "resume": "Navigation interactive entre les gouvernorats tunisiens.",
+      "description": "Application web interactive permettant de naviguer entre les gouvernorats tunisiens.",
+      "points_cles": ["Carte interactive", "Interface responsive"],
+      "technos": ["HTML", "CSS", "JavaScript"],
+      "lien": ""
+    },
+    {
+      "nom": "Portfolio personnel",
+      "resume": "Portfolio avec assistant IA intégré.",
+      "description": "Portfolio personnel mettant en valeur mes compétences front-end, avec un assistant IA qui répond aux questions des visiteurs.",
+      "points_cles": ["Front-end HTML/CSS/JS", "Assistant IA (Flask + API Claude)"],
+      "technos": ["HTML", "CSS", "JavaScript", "Flask"],
+      "lien": ""
+    }
+  ],
+  "formation": [
+    "IHEC Carthage — Licence en Business Intelligence (2024–2027)",
+    "Baccalauréat en économie et gestion — Mention Très Bien (2024)"
+  ],
+  "langues": ["Arabe (langue maternelle)", "Français (C1)", "Anglais (C1)", "Espagnol (A2)"],
+  "vie_associative": [
+    "IHEC Finance Academy — Membre",
+    "Wolves Winter Assembly — Cheffe de projet / Team Leader",
+    "Club 3 Zéro, IHEC Carthage — Responsable événementiel"
+  ]
+}
